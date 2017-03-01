@@ -1,0 +1,9 @@
+// Custom Variables
+@import './_variables';
+// Bootstrap up in here.
+@import '../bower_components/bootstrap-sass/assets/stylesheets/bootstrap';
+
+.navbar-nav {
+    display: flex;
+    align-content: flex-end;
+}
